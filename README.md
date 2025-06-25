@@ -1,5 +1,8 @@
 # 2025-first-project-Arroz2807
 
+- **Alumno:** Nicolas Manescau
+- **Curso:** 5to Informatica
+
 Este proyecto contiene scripts básicos en Python creados como parte de una actividad en GitHub Classroom.
 
 ## Archivos del proyecto
